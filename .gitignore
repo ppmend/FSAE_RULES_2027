@@ -1,0 +1,18 @@
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Office temporary files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# macOS
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*~
