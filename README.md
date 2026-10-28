@@ -292,7 +292,8 @@ This is an **unofficial** repository and is not affiliated with or endorsed by S
 
 ## Credits
 
-- **Pedro Paulo Nogueira Mendonça** — LinkedIn: <https://www.linkedin.com/in/pedro-paulo-nogueira-mendon%C3%A7a-866821219/>
+- **Pedro Paulo Nogueira Mendonça** — Author. LinkedIn: <https://www.linkedin.com/in/pedro-paulo-nogueira-mendon%C3%A7a-866821219/>
+- **Enrique Gil Borges** — Development support and contributor. LinkedIn: <https://www.linkedin.com/in/enrique-gil-borges-1b884a37a/>
 - **Tadarida Electric Racing Team, Laboratório de Mobilidade Automobilística e Urbana (LAMAU)** (Automotive and Urban Mobility Laboratory) — Instagram: [@lamau.ufu](https://www.instagram.com/lamau.ufu/)
 
 ## Português (PT-BR)
@@ -337,5 +338,6 @@ Este repositório é **não oficial** e não tem vínculo nem aprovação da SAE
 
 ### Créditos
 
-- **Pedro Paulo Nogueira Mendonça** — LinkedIn: <https://www.linkedin.com/in/pedro-paulo-nogueira-mendon%C3%A7a-866821219/>
+- **Pedro Paulo Nogueira Mendonça** — Autor. LinkedIn: <https://www.linkedin.com/in/pedro-paulo-nogueira-mendon%C3%A7a-866821219/>
+- **Enrique Gil Borges** — Suporte ao desenvolvimento e colaborador. LinkedIn: <https://www.linkedin.com/in/enrique-gil-borges-1b884a37a/>
 - **Tadarida Electric Racing Team, Laboratório de Mobilidade Automobilística e Urbana (LAMAU)** — Instagram: [@lamau.ufu](https://www.instagram.com/lamau.ufu/)
