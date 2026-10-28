@@ -102,7 +102,8 @@ FSAE_RULES_2027/
 │   ├── DI - Driverless Inspection.md
 │   ├── DO - Driverless Operations.md
 │   ├── DS - Driverless Static.md
-│   └── DT - Driverless Technical.md
+│   ├── DT - Driverless Technical.md
+│   └── Formula_SAE_Driverless_Implementation_Roadmap_rev8.5.2026.md
 ├── FSAE_Rules_2027_V1/  # Formula SAE Rules 2027, split by section
 │   ├── 00 - Front Matter.md
 │   ├── AD - Administrative Regulations.md
@@ -171,13 +172,11 @@ FSAE_RULES_2027/
 │   ├── FSAE_Recommended_Books.md
 │   ├── Organizing a Formula SAE by Alan Gruner.md
 │   └── SAE Student Management by Richard G. Golembiewski.md
-├── Formula_SAE_Driverless_Implementation_Roadmap_rev8.5.2026.md
 └── README.md
 ```
 
 Figures are in an `assets/` folder next to each document, in `assets/<document name>/`:
 
-- `/assets/` — 1 images
 - `Cost Event Resources/assets/` — 25 images
 - `Design Events Resources/EV - Electric Vehicle/assets/` — 2 images
 - `Design Events Resources/IC - Internal Combustion Vehicle/assets/` — 1 images

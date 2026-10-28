@@ -6,8 +6,6 @@ DRIVERLESS ROADMAP
 
 Revised August 5, 2026
 
-![Figure on page 1](assets/Formula_SAE_Driverless_Implementation_Roadmap_rev8.5.2026/figure_001_p1.png)
-
 ## EXECUTIVE SUMMARY
 
 SAE is introducing a phased implementation approach for autonomous mode technology under the Driverless Class within the Formula SAE series, specifically the Formula SAE Electric competition.
